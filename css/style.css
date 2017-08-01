@@ -1,9 +1,40 @@
 h1 {
   text-align: center;
+  color: silver;
+  font-family: sans-serif;
 }
-h2{
+
+h2 {
   text-align: center;
+  text-decoration: none;
 }
+
 ul {
   list-style-type: none;
+}
+
+body {
+  background-color: grey;
+}
+
+a {
+  color: #cccccc;
+  text-decoration: none;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 750px;
+  height: auto;
 }
