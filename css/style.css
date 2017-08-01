@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color: silver;
+  color: #4BF1DF;
   font-family: sans-serif;
 }
 
@@ -14,11 +14,12 @@ ul {
 }
 
 body {
-  background-color: grey;
+  background-color: teal;
+  color: white;
 }
 
 a {
-  color: #cccccc;
+  color: #2DB3FF;
   text-decoration: none;
 }
 
